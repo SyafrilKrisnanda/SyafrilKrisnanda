@@ -5,4 +5,7 @@
 <a href="https://www.boot.dev/certificates/5cb28ac0-70f8-4b58-81db-86b4f75ec093">
   <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/5cb28ac0-70f8-4b58-81db-86b4f75ec093.jpeg?v=1792933860" alt="Boot.dev Build a BookBot in Python certificate" width="450" />
 </a>
+
 [![Boot.dev Learn Git certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/81540c44-7eab-40e0-8960-a47ad7e4f738.jpeg?v=1793013222)](https://www.boot.dev/certificates/81540c44-7eab-40e0-8960-a47ad7e4f738)
+
+[![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/2143ff67-6a30-4874-9976-5cc7374c16cc.jpeg?v=1793286964)](https://www.boot.dev/certificates/2143ff67-6a30-4874-9976-5cc7374c16cc)
